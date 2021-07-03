@@ -132,7 +132,6 @@ export default function Board({
                     className="box border border-light"
                     onClick={(e) => {
                       clickBoard(e.target.id);
-                      computerClickBoard();
                     }}
                   ></div>
                 );
