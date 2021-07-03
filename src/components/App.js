@@ -41,6 +41,7 @@ function App() {
           box.style.backgroundColor = "#343a40";
           box.classList.add("used");
         }
+        computerClickBoard();
       }
     }
   }
