@@ -1,0 +1,13 @@
+.box {
+  width: 10%;
+  padding-top: 10%;
+}
+
+.destroyer-ship,
+.cruiser-ship,
+.submarine-ship,
+.battleship-ship,
+.carrier-ship {
+  width: 22.5%;
+  padding-top: 22.5%;
+}
